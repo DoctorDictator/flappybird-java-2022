@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="color" name="ic_background_color" id="2130771968" />
+    <public type="mipmap" name="ic_launcher" id="2130837504" />
+    <public type="mipmap" name="ic_launcher_adaptive_back" id="2130837505" />
+    <public type="mipmap" name="ic_launcher_adaptive_fore" id="2130837506" />
+    <public type="string" name="app_name" id="2130903040" />
+    <public type="style" name="GdxTheme" id="2130968576" />
+</resources>
